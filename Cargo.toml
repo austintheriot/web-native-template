@@ -1,0 +1,2 @@
+[workspace]
+members = ["native", "native/src-tauri", "ui", "web"]
